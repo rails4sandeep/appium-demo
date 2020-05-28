@@ -1,0 +1,19 @@
+{
+  "name": "appium-demo",
+  "version": "1.0.0",
+  "description": "a sample appium based android test",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Sandeep Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "1.17.1",
+    "appium-uiautomator2-driver": "1.54.2",
+    "@wdio/appium-service": "^6.1.0",
+    "@wdio/cli": "6.1.12",
+    "webdriverio": "6.1.12",
+    "wd": "1.12.1"
+  }
+}
